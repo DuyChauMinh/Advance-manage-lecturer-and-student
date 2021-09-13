@@ -1,0 +1,30 @@
+C:\Users\Tan Luc\source\repos\Coding\Coding\bin\Debug\Coding.exe.config
+C:\Users\Tan Luc\source\repos\Coding\Coding\bin\Debug\Coding.exe
+C:\Users\Tan Luc\source\repos\Coding\Coding\bin\Debug\Coding.pdb
+C:\Users\Tan Luc\source\repos\Coding\Coding\obj\Debug\Coding.csprojAssemblyReference.cache
+C:\Users\Tan Luc\source\repos\Coding\Coding\obj\Debug\Coding.Form1.resources
+C:\Users\Tan Luc\source\repos\Coding\Coding\obj\Debug\Coding.Properties.Resources.resources
+C:\Users\Tan Luc\source\repos\Coding\Coding\obj\Debug\Coding.csproj.GenerateResource.cache
+C:\Users\Tan Luc\source\repos\Coding\Coding\obj\Debug\Coding.csproj.CoreCompileInputs.cache
+C:\Users\Tan Luc\source\repos\Coding\Coding\obj\Debug\Coding.exe
+C:\Users\Tan Luc\source\repos\Coding\Coding\obj\Debug\Coding.pdb
+E:\download\Châu Minh Duy - GCS18556 (1)\Châu Minh Duy - GCS18556\Coding\Coding\bin\Debug\Coding.exe.config
+E:\download\Châu Minh Duy - GCS18556 (1)\Châu Minh Duy - GCS18556\Coding\Coding\bin\Debug\Coding.exe
+E:\download\Châu Minh Duy - GCS18556 (1)\Châu Minh Duy - GCS18556\Coding\Coding\bin\Debug\Coding.pdb
+E:\download\Châu Minh Duy - GCS18556 (1)\Châu Minh Duy - GCS18556\Coding\Coding\obj\Debug\Coding.csprojAssemblyReference.cache
+E:\download\Châu Minh Duy - GCS18556 (1)\Châu Minh Duy - GCS18556\Coding\Coding\obj\Debug\Coding.Form1.resources
+E:\download\Châu Minh Duy - GCS18556 (1)\Châu Minh Duy - GCS18556\Coding\Coding\obj\Debug\Coding.Properties.Resources.resources
+E:\download\Châu Minh Duy - GCS18556 (1)\Châu Minh Duy - GCS18556\Coding\Coding\obj\Debug\Coding.csproj.GenerateResource.cache
+E:\download\Châu Minh Duy - GCS18556 (1)\Châu Minh Duy - GCS18556\Coding\Coding\obj\Debug\Coding.csproj.CoreCompileInputs.cache
+E:\download\Châu Minh Duy - GCS18556 (1)\Châu Minh Duy - GCS18556\Coding\Coding\obj\Debug\Coding.exe
+E:\download\Châu Minh Duy - GCS18556 (1)\Châu Minh Duy - GCS18556\Coding\Coding\obj\Debug\Coding.pdb
+C:\Users\Tan Luc\Desktop\Châu Minh Duy - GCS18556\Coding\Coding\obj\Debug\Coding.csprojAssemblyReference.cache
+C:\Users\Tan Luc\Desktop\Châu Minh Duy - GCS18556\Coding\Coding\obj\Debug\Coding.Form1.resources
+C:\Users\Tan Luc\Desktop\Châu Minh Duy - GCS18556\Coding\Coding\obj\Debug\Coding.Properties.Resources.resources
+C:\Users\Tan Luc\Desktop\Châu Minh Duy - GCS18556\Coding\Coding\obj\Debug\Coding.csproj.GenerateResource.cache
+C:\Users\Tan Luc\Desktop\Châu Minh Duy - GCS18556\Coding\Coding\obj\Debug\Coding.csproj.CoreCompileInputs.cache
+C:\Users\Tan Luc\Desktop\Châu Minh Duy - GCS18556\Coding\Coding\obj\Debug\Coding.exe
+C:\Users\Tan Luc\Desktop\Châu Minh Duy - GCS18556\Coding\Coding\obj\Debug\Coding.pdb
+C:\Users\Tan Luc\Desktop\Châu Minh Duy - GCS18556\Coding\Coding\bin\Debug\Coding.exe.config
+C:\Users\Tan Luc\Desktop\Châu Minh Duy - GCS18556\Coding\Coding\bin\Debug\Coding.exe
+C:\Users\Tan Luc\Desktop\Châu Minh Duy - GCS18556\Coding\Coding\bin\Debug\Coding.pdb
